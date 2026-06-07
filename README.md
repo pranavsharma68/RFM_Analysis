@@ -53,11 +53,12 @@ The analysis focuses on identifying:
 
 ## Files Included
 
-- Raw Dataset
+- Raw Datasets
 - SQL Analysis Queries
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots
 - Project Documentation
+- Cleaned Dataset
 
 ---
 
